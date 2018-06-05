@@ -1,4 +1,4 @@
-FROM ubuntu:17.10
+FROM ubuntu:18.10
 MAINTAINER Blazej Bucko <blazej.bucko@gmail.com>
 
 RUN apt-get update && \
